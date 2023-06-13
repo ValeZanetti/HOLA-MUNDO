@@ -7,5 +7,4 @@ I love :pc:, :desing:, :phones:
 
 mi ultima linea en el repositorio 
 
-
-
+Finalizando con Github
