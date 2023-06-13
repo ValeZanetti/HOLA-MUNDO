@@ -1,10 +1,7 @@
-#Hola-Mundo
+# Hola-Mundo
 
+El primer repositorio en Github 
 
 I love :fishing:, :stars:, :apple:, 
 
-I love :pc:, :desing:, :phones:
-
-mi ultima linea en el repositorio 
-
-Finalizando con Github
+I love :pc:, :desing:, 🎧
